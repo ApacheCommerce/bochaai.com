@@ -1,4 +1,9 @@
 # 博查AI搜索 - 多模型AI搜索，答案快如闪电
+博查AI搜索4月20日起开启公测，所有VIP模型免费使用🎉。
+
+您可以通过以下入口体验：
+[https://bochaai.com](https://bochaai.com)
+
 ![首页](./assets/homepage.png)
 
 # 什么是博查AI搜索？
